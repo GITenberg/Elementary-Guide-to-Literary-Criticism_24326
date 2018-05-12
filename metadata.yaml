@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2403
 description: pt. 1. Fundamental principles.--pt. 2. Rhetorical elements.--pt. 3. Kinds
   of literature.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24326#Elementary-Guide-to-Literary-Criticism
 gutenberg_issued: '2008-01-16'
 gutenberg_type: Text
 identifiers:
